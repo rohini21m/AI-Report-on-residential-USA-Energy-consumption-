@@ -5,3 +5,4 @@ Promt Utilized : 1) Create a report on data insights on electricity consumptions
 3) Precisely present KPI for year 2024 consumption to a business team. Also include the relevant articles and correct sources such as government websites. Add data points to the bar charts and line charts. 
 4) Specify the highest residential electricity consumption month in year 2024. 
 5) Rolling 12 months residential energy consumption data as the last point in insights.
+6) Use Blue color for Bar charts and red color for line charts. Add data data visualizations vertically per page in repot & power point.
